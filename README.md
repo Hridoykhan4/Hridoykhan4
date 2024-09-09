@@ -1,4 +1,4 @@
-# Hi there, I'm Hridoy Khan! 👋
+# Hi there, I'm Toyob Uddin Hridoy! 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer who loves creating modern, responsive web applications to make life easier and more efficient. Here, you can find a collection of my personal projects, open-source contributions, and work that showcases my journey in the world of development.
 
@@ -42,9 +42,9 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves creating 
 ---
 
 ### 🤝 Connect with Me:
-- LinkedIn: [Hridoy Khan](https://linkedin.com/in/your-link-here)
+- LinkedIn: [Hridoy Khan](https://www.linkedin.com/in/md-toyob-uddin-hridoy-214958311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Portfolio: [Your Portfolio](https://your-portfolio-link-here)
-- Email: hridoykhan4@example.com
+- Email: hridoykhan148385@gmail.com
 
 ---
 
