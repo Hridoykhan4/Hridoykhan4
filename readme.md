@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
-        <img src="https://i.ibb.co.com/RpHKmdB5/Whats-App-Image-2025-12-15-at-7-05-05-PM.jpg" alt="Md. Toyob Uddin (Hridoy) - Full-Stack Developer Banner" height="30" width="100%">
+        <img src="https://i.ibb.co.com/RpHKmdB5/Whats-App-Image-2025-12-15-at-7-05-05-PM.jpg" alt="Md. Toyob Uddin (Hridoy) - Full-Stack Developer Banner" width="1024" height="728">
     </a>
 
     # Hi there! I'm Md. Toyob Uddin (Hridoy) 👋
