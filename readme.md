@@ -1,21 +1,35 @@
 <div align="center">
-    <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
-        <img src="https://i.ibb.co.com/RpHKmdB5/Whats-App-Image-2025-12-15-at-7-05-05-PM.jpg" alt="Md. Toyob Uddin (Hridoy) - Full-Stack Developer Banner" style="width: 100%; max-width: 900px; border-radius: 10px; margin-bottom: 20px;">
-    </a>
+     <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
+    <img 
+      src="https://i.ibb.co.com/RpHKmdB5/Whats-App-Image-2025-12-15-at-7-05-05-PM.jpg" 
+      alt="Md. Toyob Uddin (Hridoy) - Full-Stack Developer Banner" 
+      style="width:100%; max-height:300px; object-fit:cover; border-radius:8px;"
+    />
 
-    # Hi there! I'm Md. Toyob Uddin (Hridoy) 👋
-    ### **Full-Stack Web Developer | MERN Stack Enthusiast**
+    <h1> 👋 Hello, I'm Md. Toyob uddin Hridoy </h1>
+    Full-Stack Web Developer | MERN Stack Enthusiast
 
-    <p>
-        <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-        <a href="mailto:toyobuddinhridoy@gmail.com"><img src="https://img.shields.io/badge/Email-toyobuddinhridoy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-        <a href="https://www.facebook.com/md.toyob.uddin.hridoy"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-    </p>
+#### Key Skills & Videos on Web development:
 
-    <p>
-        <br>
-        Welcome to my digital workshop! I'm a passionate and self-driven Full-Stack Developer with **1.5 years of intensive practice** in building modern, scalable, and responsive web applications. I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack, focusing on creating efficient backend logic and dynamic user interfaces. Let's build something great.
-    </p>
+<img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/icons/HTML.png" />
+<img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/icons/css.png" />
+<img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/icons/Bootsrap.png" />
+<img align="left" alt="tailwind" title="tailwind" width="45" hspace="5" src="./images/icons/tailwind.png" />
+<img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/icons/JavaScript.png" />
+<img align="left" alt="C" title="C" width="45" hspace="5" src="./images/icons/c.png" />
+<img align="left" alt="react" title="React" width="45" hspace="5" src="./images/icons/react.png" />
+<img align="left" alt="firebase" title="firebase" width="45" hspace="5" src="./images/icons/firebase.png" />
+<img align="left" alt="node" title="express" width="45" hspace="5" src="./images/icons/node.png" />
+<img align="left" alt="express" title="express" width="45" hspace="5" src="./images/icons/express.png" />
+<img align="left" alt="Mongo" title="node and express playlist" width="45" hspace="5" src="./images/icons/mongo.png" />
+<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />
+<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />
+<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />
+
+<br />
+<br />
+<br />
+
 </div>
 
 ---
@@ -25,20 +39,23 @@
 I am a master of the following technologies, with a strong foundation in modern development practices:
 
 ### **Frontend Mastery (React Powerhouse)**
-| Skill | Technologies | Core Concepts Mastered |
-| :--- | :--- | :--- |
-| **Languages** | JavaScript (ES6+), HTML5, CSS3 | Modern JavaScript Mastery (DOM, Events, ES6, Async JS) |
+
+| Skill               | Technologies                   | Core Concepts Mastered                                         |
+| :------------------ | :----------------------------- | :------------------------------------------------------------- |
+| **Languages**       | JavaScript (ES6+), HTML5, CSS3 | Modern JavaScript Mastery (DOM, Events, ES6, Async JS)         |
 | **Frameworks/Libs** | **React**, Next.js (Exploring) | JSX & Components, Props & State, **React Hooks**, React Router |
-| **Styling** | Tailwind CSS, Plain CSS | Responsive Web Design, Utility-First Styling |
+| **Styling**         | Tailwind CSS, Plain CSS        | Responsive Web Design, Utility-First Styling                   |
 
 ### **Backend & Database (API Engine)**
-| Skill | Technologies | Core Concepts Mastered |
-| :--- | :--- | :--- |
-| **Runtime/Frameworks** | **Node.js**, **Express.js** | Server-Side Logic, **REST API Development** |
-| **Databases** | **MongoDB**, Firebase | **CRUD Operations**, Data Modeling |
-| **Authentication** | JWT (JSON Web Tokens) | Secure User Authentication and Authorization |
+
+| Skill                  | Technologies                | Core Concepts Mastered                       |
+| :--------------------- | :-------------------------- | :------------------------------------------- |
+| **Runtime/Frameworks** | **Node.js**, **Express.js** | Server-Side Logic, **REST API Development**  |
+| **Databases**          | **MongoDB**, Firebase       | **CRUD Operations**, Data Modeling           |
+| **Authentication**     | JWT (JSON Web Tokens)       | Secure User Authentication and Authorization |
 
 ### **Tools & Practices**
+
 - **Version Control:** Git, GitHub
 - **Development Environment:** Visual Studio Code
 - **Deployment:** Practical experience in full-stack application deployment.
@@ -58,6 +75,7 @@ Showcasing consistency and commitment to my craft. My development journey is a t
         <img src="https://github-readme-stats.vercel.app/api?username=Hridoykhan4&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridoykhan4&layout=compact&theme=vue&hide_border=true" alt="Top Languages"/>
     </p>
+
 </div>
 
 ---
@@ -66,10 +84,10 @@ Showcasing consistency and commitment to my craft. My development journey is a t
 
 My focus is on creating **production-ready Full-Stack applications** that solve real problems. I have practical experience implementing complex features like:
 
-* **Dashboard** creation for management and analytics.
-* **Payment Integration** (e.g., Stripe, PayPal).
-* **Image Upload** and content management.
-* Efficient **Pagination** for large datasets.
+- **Dashboard** creation for management and analytics.
+- **Payment Integration** (e.g., Stripe, PayPal).
+- **Image Upload** and content management.
+- Efficient **Pagination** for large datasets.
 
 ---
 
@@ -77,9 +95,9 @@ My focus is on creating **production-ready Full-Stack applications** that solve 
 
 I am deeply enthusiastic about the React ecosystem and am always pushing the boundaries of what I can build:
 
-* **Current Deep Dive:** Mastering advanced state management patterns in React.
-* **Next Milestone:** Soon transitioning my React knowledge to master **Next.js** for server-side rendering and full-stack capabilities.
-* **Collaboration:** I'm actively looking to collaborate on impactful open-source projects.
+- **Current Deep Dive:** Mastering advanced state management patterns in React.
+- **Next Milestone:** Soon transitioning my React knowledge to master **Next.js** for server-side rendering and full-stack capabilities.
+- **Collaboration:** I'm actively looking to collaborate on impactful open-source projects.
 
 ---
 
@@ -94,5 +112,5 @@ Let's collaborate on awesome projects! Feel free to reach out—I'm always open 
     &nbsp;&nbsp;
     <a href="https://www.facebook.com/md.toyob.uddin.hridoy"><img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Facebook.png" alt="Facebook" height="50"/></a>
     &nbsp;&nbsp;
-    <a href="https://your-portfolio-link-here"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="50"/></a>
+    
 </p>
