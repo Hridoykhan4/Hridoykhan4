@@ -1,10 +1,16 @@
 <div align="center">
+<<<<<<< HEAD
      <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
     <img 
       src="https://i.ibb.co.com/RpHKmdB5/Whats-App-Image-2025-12-15-at-7-05-05-PM.jpg" 
       alt="Md. Toyob Uddin (Hridoy) - Full-Stack Developer Banner" 
       style="width:100%; max-height:300px; object-fit:cover; border-radius:8px;"
     />
+=======
+    <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
+        <img src="https://i.ibb.co.com/RpHKmdB5/Whats-App-Image-2025-12-15-at-7-05-05-PM.jpg" alt="Md. Toyob Uddin (Hridoy) - Full-Stack Developer Banner" width="1024" height="728">
+    </a>
+>>>>>>> d10cba3d2d9829c95eff8a88fd8685c915f9f6b0
 
     <h1> 👋 Hello, I'm Md. Toyob uddin Hridoy </h1>
     Full-Stack Web Developer | MERN Stack Enthusiast
@@ -112,5 +118,9 @@ Let's collaborate on awesome projects! Feel free to reach out—I'm always open 
     &nbsp;&nbsp;
     <a href="https://www.facebook.com/md.toyob.uddin.hridoy"><img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Facebook.png" alt="Facebook" height="50"/></a>
     &nbsp;&nbsp;
+<<<<<<< HEAD
     
+=======
+    <a href="https://your-portfolio-link-here"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="50"/></a>
+>>>>>>> d10cba3d2d9829c95eff8a88fd8685c915f9f6b0
 </p>
