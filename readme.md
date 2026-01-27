@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy" target="_blank">
     <img 
-      src="https://i.ibb.co.com/RpHKmdB5/Whats-App-Image-2025-12-15-at-7-05-05-PM.jpg"
-      alt="Md. Toyob Uddin (Hridoy) – Full-Stack Web Developer"
+      src="https://i.ibb.co.com/jvrSW8qj/Profile-Pic.jpg"
+      alt="Md. Toyob Uddin Hridoy – Full-Stack Web Developer"
       width="100%"
     />
   </a>
