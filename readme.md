@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy" target="_blank">
     <img
-      src="https://i.ibb.co.com/GNqvCVz/unnamed.jpg"
+      src="https://i.ibb.co.com/nszxvHRc/Whats-App-Image-2026-01-28-at-1-16-11-AM.jpg"
       alt="Md. Toyob Uddin Hridoy – Full-Stack Web Developer"
       width="900"
     />
