@@ -1,16 +1,22 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
+  <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy" target="_blank">
     <img 
-      src="https://i.ibb.co.com/RpHKmdB5/Whats-App-Image-2025-12-15-at-7-05-05-PM.jpg" 
-      alt="Md. Toyob Uddin (Hridoy) - Full-Stack Developer Banner" 
-      style="width:100%; max-height:300px; object-fit:cover; border-radius:8px;"
+      src="https://i.ibb.co.com/RpHKmdB5/Whats-App-Image-2025-12-15-at-7-05-05-PM.jpg"
+      alt="Md. Toyob Uddin (Hridoy) – Full-Stack Web Developer"
+      width="100%"
     />
   </a>
 
-  <h1> 👋 Hello, I'm <strong>Md. Toyob Uddin (Hridoy)</strong> </h1>
-  <h3>🚀 Full-Stack Web Developer | MERN Stack Enthusiast</h3>
-  <p><em>Building scalable applications with clean code & creativity</em></p>
+  <h1>Hello, I'm Md. Toyob Uddin (Hridoy) 👋</h1>
+
+  <h3>Full-Stack Web Developer | MERN Stack</h3>
+
+  <p>
+    Passionate about building scalable, high-performance web applications<br/>
+    with clean architecture, modern technologies, and thoughtful UX.
+  </p>
 </div>
+
 
 ---
 
