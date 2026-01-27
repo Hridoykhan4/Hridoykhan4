@@ -84,18 +84,19 @@
     alt="GitHub Streak"
   />
 
-  <br/><br/>
+<br/><br/>
 
-  <img
+<img
     src="https://github-readme-stats.vercel.app/api?username=Hridoykhan4&show_icons=true&theme=vue&hide_border=true"
     width="45%"
     alt="GitHub Stats"
   />
-  <img
+<img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridoykhan4&layout=compact&theme=vue&hide_border=true"
     width="45%"
     alt="Top Languages"
   />
+
 </div>
 
 ---
