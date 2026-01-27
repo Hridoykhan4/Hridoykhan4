@@ -1,14 +1,13 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy" target="_blank">
-    <img 
-      src="https://i.ibb.co.com/jvrSW8qj/Profile-Pic.jpg"
-      alt="Md. Toyob Uddin Hridoy – Full-Stack Web Developer"
-      width="100%"
+    <img
+      src="https://i.ibb.co.com/GNqvCVz/unnamed.jpg"
+      alt="Md. Toyob Uddin (Hridoy) – Full-Stack Web Developer"
+      width="900"
     />
   </a>
 
   <h1>Hello, I'm Md. Toyob Uddin (Hridoy) 👋</h1>
-
   <h3>Full-Stack Web Developer | MERN Stack</h3>
 
   <p>
@@ -16,7 +15,6 @@
     with clean architecture, modern technologies, and thoughtful UX.
   </p>
 </div>
-
 
 ---
 
@@ -39,9 +37,10 @@
 | **Authentication**     | JWT (JSON Web Tokens)       | Secure User Authentication and Authorization |
 
 ### **Tools & Practices**
-- **Version Control:** Git, GitHub  
-- **Development Environment:** Visual Studio Code  
-- **Deployment:** Full-stack application deployment experience  
+
+- **Version Control:** Git, GitHub
+- **Development Environment:** Visual Studio Code
+- **Deployment:** Full-stack application deployment experience
 
 ---
 
@@ -61,22 +60,26 @@
 ---
 
 ## 💻 Real World Application Focus
+
 I build **production-ready Full-Stack applications** with features such as:
-- **Dashboard** creation for management and analytics  
-- **Payment Integration** (Stripe, PayPal)  
-- **Image Upload** and content management  
-- Efficient **Pagination** for large datasets  
+
+- **Dashboard** creation for management and analytics
+- **Payment Integration** (Stripe, PayPal)
+- **Image Upload** and content management
+- Efficient **Pagination** for large datasets
 
 ---
 
 ## 🌱 Enthusiast & Future Steps
-- **Current Deep Dive:** Advanced state management patterns in React  
-- **Next Milestone:** Transitioning to **Next.js** for server-side rendering and full-stack capabilities  
-- **Collaboration:** Open to contributing to impactful open-source projects  
+
+- **Current Deep Dive:** Advanced state management patterns in React
+- **Next Milestone:** Transitioning to **Next.js** for server-side rendering and full-stack capabilities
+- **Collaboration:** Open to contributing to impactful open-source projects
 
 ---
 
 ## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy"><img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Linkedin.png" alt="LinkedIn" height="40"/></a>
   &nbsp;&nbsp;
