@@ -1,152 +1,172 @@
-<div align="center">
-  <img
-    src="https://i.ibb.co.com/nszxvHRc/Whats-App-Image-2026-01-28-at-1-16-11-AM.jpg"
-    alt="Md. Toyob Uddin Hridoy"
-    width="100%"
-    style="max-width: 900px; border-radius: 10px;"
-  />
-</div>
+---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0AA1DD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Toyob+Uddin+Hridoy;Full-Stack+Web+Developer;MERN+Stack+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
-</h1>
+## 🚀 Technical Expertise
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:toyobuddinhridoy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.facebook.com/md.toyob.uddin.hridoy">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+### **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### **Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💼 Professional Highlights
 
-I'm a **Full-Stack Web Developer** passionate about crafting secure, scalable, and high-performance web applications. With expertise in the **MERN stack**, I specialize in building modern solutions that solve real-world problems.
-```javascript
-const hridoy = {
-  location: "Chittagong, Bangladesh",
-  currentFocus: "Building scalable full-stack applications",
-  techStack: {
-    frontend: ["React.js", "Next.js", "TailwindCSS", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    database: ["MongoDB", "Firebase"],
-    tools: ["Git", "Postman", "VS Code", "Vercel"]
-  },
-  expertise: [
-    "JWT Authentication & Authorization",
-    "Payment Gateway Integration",
-    "API Design & Optimization",
-    "Clean Code Architecture"
-  ]
-};
-```
-
----
-
-## 🚀 Technical Skills
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🎨 Frontend Development</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,figma&perline=4" />
+    <td>
+      <h3>🔐 Authentication & Security</h3>
+      <ul>
+        <li>JWT-based authentication systems</li>
+        <li>Role-Based Access Control (RBAC)</li>
+        <li>Secure session management</li>
+        <li>Password encryption & validation</li>
+      </ul>
     </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&perline=4" />
+    <td>
+      <h3>💳 Payment Integration</h3>
+      <ul>
+        <li>Stripe payment gateway</li>
+        <li>PayPal integration</li>
+        <li>SSLCommerz for local payments</li>
+        <li>Secure transaction handling</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>🛠️ Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=4" />
+    <td>
+      <h3>🏗️ System Architecture</h3>
+      <ul>
+        <li>RESTful API design</li>
+        <li>Modular code structure</li>
+        <li>MVC architecture pattern</li>
+        <li>Microservices approach</li>
+      </ul>
     </td>
-    <td align="center" width="50%">
-      <h3>💻 Programming Fundamentals</h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,js&perline=4" />
+    <td>
+      <h3>⚡ Performance Optimization</h3>
+      <ul>
+        <li>Code splitting & lazy loading</li>
+        <li>Database query optimization</li>
+        <li>Efficient pagination & filtering</li>
+        <li>Caching strategies</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💡 Core Competencies
+## 📊 GitHub Analytics
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=default&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 What I'm Focused On
+
+- 🔭 **Currently Building:** Production-ready full-stack applications with modern best practices
+- 🌱 **Learning:** Advanced Next.js features, TypeScript, and System Design
+- 👯 **Open To:** Collaborating on impactful open-source projects and innovative startups
+- 💼 **Seeking:** Full-time opportunities to contribute to meaningful products
+- 💬 **Ask Me About:** React, Node.js, MongoDB, API Development, or anything MERN
+- 📫 **Reach Me:** [toyobuddinhridoy@gmail.com](mailto:toyobuddinhridoy@gmail.com)
+- ⚡ **Fun Fact:** I debug faster with coffee ☕
+
+---
+
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-| Area | Technologies & Practices |
-|------|-------------------------|
-| **🔐 Authentication** | JWT, Session Management, Role-Based Access Control (RBAC) |
-| **💳 Payments** | Stripe, PayPal Integration, Secure Transaction Handling |
-| **🏗️ Architecture** | RESTful APIs, Modular Design, MVC Pattern |
-| **⚡ Performance** | Code Splitting, Lazy Loading, Database Optimization |
-| **📊 Data Management** | Pagination, Filtering, Sorting, Aggregation Pipelines |
-| **✅ Best Practices** | Clean Code, Git Workflow, Responsive Design, SEO |
+| 🎯 Metric | 📈 Count |
+|-----------|----------|
+| **Projects Completed** | 25+ |
+| **GitHub Repositories** | 30+ |
+| **Problem Solving** | 200+ |
+| **Hours of Coding** | 2000+ |
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=md-toyob-uddin-hridoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-toyob-uddin-hridoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    alt="Top Languages"
-    height="170"
-  />
-</div>
-
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=md-toyob-uddin-hridoy&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-    width="48%"
-  />
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=md-toyob-uddin-hridoy&theme=tokyo-night&hide_border=true&area=true" 
-    alt="Contribution Graph"
-    width="100%"
-  />
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Building production-ready full-stack applications
-- 🌱 Exploring advanced Next.js features and server-side rendering
-- 👯 Open to collaborating on impactful open-source projects
-- 💬 Ask me about **React, Node.js, MongoDB, or API development**
-- 📫 Reach me at: **toyobuddinhridoy@gmail.com**
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <p>I'm always interested in discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
+  
+  <p>I'm always excited to discuss new projects, innovative ideas, or opportunities to contribute to your team's success.</p>
   
   <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
+  <a href="mailto:toyobuddinhridoy@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=100&section=footer" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
   
-  <p>⭐️ From <a href="https://github.com/Hridoykhan4">Toyob Uddin Hridoy</a></p>
+  <p><i>💙 Crafted with passion by <a href="https://github.com/Hridoykhan4">Toyob Uddin Hridoy</a></i></p>
+  
+  <p>⭐ If you find my work interesting, consider giving a star to my repositories!</p>
 </div>
