@@ -7,7 +7,7 @@
     />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <p>
     <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
@@ -25,7 +25,7 @@
 
   <h1>Md. Toyob Uddin Hridoy</h1>
 
-  <img
+<img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AA1DD&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Scalable+Web+Applications"
     alt="Typing animation"
   />
@@ -79,15 +79,15 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hridoykhan4&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Stats"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Hridoykhan4&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    width="48%" 
+    alt="GitHub Stats" 
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridoykhan4&layout=compact&theme=tokyonight&hide_border=true"
-    width="40%"
-    alt="Top Languages"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridoykhan4&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    width="40%" 
+    alt="Top Languages" 
   />
 </div>
 
