@@ -1,132 +1,156 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Toyob%20Uddin%20Hridoy&fontSize=50&fontColor=fff&animation=twinkling" width="100%"/>
-  
-  <h3>Full-Stack Developer | MERN Specialist | Software Engineer</h3>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:toyobuddinhridoy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/Hridoykhan4"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
+  <img
+    src="https://i.ibb.co.com/nszxvHRc/Whats-App-Image-2026-01-28-at-1-16-11-AM.jpg"
+    alt="Md. Toyob Uddin Hridoy"
+    width="100%"
+    style="max-width: 900px; border-radius: 10px;"
+  />
 </div>
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0AA1DD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Toyob+Uddin+Hridoy;Full-Stack+Web+Developer;MERN+Stack+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
+</h1>
 
-## ⚡ Quick About Me
-I am a passionate **Full-Stack Developer** focused on building production-ready applications with a focus on security, scalability, and user experience. I thrive on turning complex problems into elegant, efficient code.
-
-- 🔭 **Focus:** Building high-performance MERN stack applications.
-- 🌱 **Growth:** Mastering Advanced Next.js, TypeScript, and System Design.
-- 💼 **Goal:** Seeking opportunities to contribute to innovative global products.
-- 💬 **Expertise:** React, Node.js, MongoDB, and Secure API Architectures.
-
----
-
-## 🚀 Technical Expertise
-
-### **Frontend & Backend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-### **Tools & Languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:toyobuddinhridoy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/md.toyob.uddin.hridoy">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 ---
 
-## 💼 Professional Highlights
+## 👨‍💻 About Me
 
-<table width="100%">
+I'm a **Full-Stack Web Developer** passionate about crafting secure, scalable, and high-performance web applications. With expertise in the **MERN stack**, I specialize in building modern solutions that solve real-world problems.
+```javascript
+const hridoy = {
+  location: "Chittagong, Bangladesh",
+  currentFocus: "Building scalable full-stack applications",
+  techStack: {
+    frontend: ["React.js", "Next.js", "TailwindCSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    database: ["MongoDB", "Firebase"],
+    tools: ["Git", "Postman", "VS Code", "Vercel"]
+  },
+  expertise: [
+    "JWT Authentication & Authorization",
+    "Payment Gateway Integration",
+    "API Design & Optimization",
+    "Clean Code Architecture"
+  ]
+};
+```
+
+---
+
+## 🚀 Technical Skills
+
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3>🔐 Security & Auth</h3>
-      <ul>
-        <li>JWT & Role-Based Access (RBAC)</li>
-        <li>Secure session & Cookie handling</li>
-        <li>Data encryption at rest/transit</li>
-      </ul>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend Development</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,figma&perline=4" />
     </td>
-    <td width="50%">
-      <h3>💳 Fintech Integration</h3>
-      <ul>
-        <li>Stripe & PayPal Gateways</li>
-        <li>SSLCommerz Implementation</li>
-        <li>Transaction Integrity & Logs</li>
-      </ul>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend Development</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&perline=4" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🏗️ Architecture</h3>
-      <ul>
-        <li>RESTful API Best Practices</li>
-        <li>MVC & Modular Patterns</li>
-        <li>Scalable Microservices</li>
-      </ul>
+    <td align="center" width="50%">
+      <h3>🛠️ Tools & Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=4" />
     </td>
-    <td width="50%">
-      <h3>⚡ Optimization</h3>
-      <ul>
-        <li>Lazy Loading & Code Splitting</li>
-        <li>NoSQL Query Optimization</li>
-        <li>Caching & Performance Tuning</li>
-      </ul>
+    <td align="center" width="50%">
+      <h3>💻 Programming Fundamentals</h3>
+      <img src="https://skillicons.dev/icons?i=c,cpp,js&perline=4" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Ecosystem
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hridoykhan4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridoykhan4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Langs" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hridoykhan4&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hridoykhan4&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
-## 🏆 Accomplishments
+## 💡 Core Competencies
 
 <div align="center">
 
-| Metric | Achievement |
-| :--- | :--- |
-| 🚀 **Projects Delivered** | 25+ Full-Stack Solutions |
-| 🧩 **Problem Solving** | 200+ Challenges Solved |
-| ⏳ **Coding Grit** | 2000+ Development Hours |
-| 🌟 **Open Source** | 30+ Public Repositories |
+| Area | Technologies & Practices |
+|------|-------------------------|
+| **🔐 Authentication** | JWT, Session Management, Role-Based Access Control (RBAC) |
+| **💳 Payments** | Stripe, PayPal Integration, Secure Transaction Handling |
+| **🏗️ Architecture** | RESTful APIs, Modular Design, MVC Pattern |
+| **⚡ Performance** | Code Splitting, Lazy Loading, Database Optimization |
+| **📊 Data Management** | Pagination, Filtering, Sorting, Aggregation Pipelines |
+| **✅ Best Practices** | Clean Code, Git Workflow, Responsive Design, SEO |
 
 </div>
 
 ---
 
+## 📈 GitHub Statistics
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Innovating%20One%20Commit%20at%20a%20Time&fontSize=25&fontColor=fff&animation=twinkling" width="100%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=md-toyob-uddin-hridoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" 
+    alt="GitHub Stats"
+    height="175"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-toyob-uddin-hridoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" 
+    alt="Top Languages"
+    height="175"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=md-toyob-uddin-hridoy&theme=tokyo-night&hide_border=true&area=true" 
+    alt="Contribution Graph"
+    width="100%"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=md-toyob-uddin-hridoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" 
+    alt="Trophies" 
+  />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building production-ready full-stack applications
+- 🌱 Exploring advanced Next.js features and server-side rendering
+- 👯 Open to collaborating on impactful open-source projects
+- 💬 Ask me about **React, Node.js, MongoDB, or API development**
+- 📫 Reach me at: **toyobuddinhridoy@gmail.com**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <p>I'm always interested in discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
   
-  <p><i>Crafted with precision by <b>Toyob Uddin Hridoy</b></i></p>
-  <p>⭐ If you enjoy my work, feel free to explore my repositories!</p>
+  <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=100&section=footer" width="100%" alt="Footer Wave"/>
+  
+  <p>⭐️ From <a href="https://github.com/Hridoykhan4">Toyob Uddin Hridoy</a></p>
 </div>
