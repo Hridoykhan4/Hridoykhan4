@@ -503,8 +503,8 @@ console.log("🤝 Let's build something extraordinary together!");
 
   <br/>
 
-  <p>
-    <img src="https://visitcount.itsvg.in/api?id=Hridoykhan4&label=Total%20Profile%20Visitors&color=6&icon=5&pretty=true" alt="Total Profile Visitors Count" />
+<p>
+    <img src="https://komarev.com/ghpvc/?username=Hridoykhan4&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" alt="Profile View Counter" />
   </p>
 
   <p>
@@ -521,11 +521,13 @@ console.log("🤝 Let's build something extraordinary together!");
 
   <br/>
 
-  <p>
-    <b>🔗 Portfolio Website:</b> Coming Soon<br/>
-    <b>📱 WhatsApp:</b> Available on Request<br/>
-    <b>🌐 Location:</b> Chittagong, Bangladesh 🇧🇩
-  </p>
+<p>
+  <b>🔗 Portfolio:</b> Coming Soon<br/>
+  <b>📧 Email:</b> toyobuddinhridoy@gmail.com<br/>
+  <b>💼 LinkedIn:</b> linkedin.com/in/md-toyob-uddin-hridoy<br/>
+  <b>🌍 Location:</b> Chittagong, Bangladesh
+</p>
+
 
 </div>
 
