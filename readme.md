@@ -1,9 +1,11 @@
 <div align="center">
-  <img
-    src="https://i.ibb.co.com/nszxvHRc/Whats-App-Image-2026-01-28-at-1-16-11-AM.jpg"
-    alt="Md. Toyob Uddin Hridoy - Full Stack Web Developer | MERN Stack Developer | React Developer | Node.js Developer"
-    width="100%"
+ <img 
+    src="./images/ProfilePic.jpeg" 
+    alt="Md. Toyob Uddin Hridoy - Full Stack MERN Developer | React & Node.js Expert"
+    width="400" 
+    style="max-width: 100%; height: auto; border-radius: 10px;"
   />
+
 </div>
 
 <br/>
@@ -23,9 +25,9 @@
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Md.+Toyob+Uddin+Hridoy;Full-Stack+Web+Developer+💻;MERN+Stack+Developer+⚡;React+%7C+Node.js+%7C+MongoDB+Expert;BSc+in+Computer+Science+🎓;Building+Scalable+Web+Applications+🚀;Open+to+Full-Time+Opportunities+✨" alt="Md. Toyob Uddin Hridoy - Full Stack Developer" />
-</h1>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Md.+Toyob+Uddin+Hridoy;Full-Stack+MERN+Developer+💻;BSc+in+Computer+Science+🎓;Building+Scalable+Web+Solutions+🚀" alt="Md. Toyob Uddin Hridoy" />
+  </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hridoykhan4&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views Counter" />
@@ -35,183 +37,12 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
+My name is Md. Toyob Uddin Hridoy. I am a **Full-Stack Web Developer** specializing in the **MERN Stack**. With a **BSc in Computer Science & Engineering**, I focus on building applications that aren't just functional, but are **secure, scalable, and optimized for performance**.
 
-> **Full-Stack Web Developer** | **MERN Stack Specialist** | **BSc in Computer Science & Engineering** | **Problem Solver** | **Clean Code Advocate**
->
-> Experienced Full-Stack Developer specializing in **React.js, Node.js, Express.js, and MongoDB**. Proven track record of building **30+ production-ready web applications** with focus on **security, scalability, and performance optimization**.
-
-### 🎯 Core Value Proposition
-
-As a **dedicated Full-Stack Web Developer** with a **BSc in Computer Science & Engineering**, I transform complex business requirements into elegant, scalable web solutions. My expertise spans the entire development lifecycle—from **responsive frontend design** to **robust backend architecture** and **database optimization**. I excel at building **secure authentication systems**, integrating **payment gateways**, and implementing **RESTful APIs** that power modern web applications.
-
-**Key Strengths:**
-- ✅ **30+ Completed Projects** showcasing real-world problem-solving
-- ✅ **MERN Stack Mastery**: React.js, Node.js, Express.js, MongoDB
-- ✅ **Security Expert**: JWT Authentication, OAuth 2.0, RBAC Implementation
-- ✅ **Payment Integration**: Stripe, PayPal, SSLCommerz
-- ✅ **Performance Optimization**: Code splitting, lazy loading, database indexing
-- ✅ **Team Collaboration**: Agile methodologies, Git workflows, code reviews
-```javascript
-const toyobUddinHridoy = {
-  // Personal Information
-  fullName: "Md. Toyob Uddin Hridoy",
-  location: "📍 Chittagong, Bangladesh 🇧🇩",
-  title: "Full-Stack Web Developer | MERN Stack Specialist",
-  education: "BSc in Computer Science & Engineering 🎓",
-  experience: "2+ Years of Hands-on Development Experience",
-
-  // Career Status
-  availability: {
-    status: "✅ Actively Seeking Opportunities",
-    jobTypes: [
-      "Full-Time Software Developer Positions",
-      "Contract-Based Development Projects",
-      "Remote Web Development Opportunities",
-      "Freelance MERN Stack Projects",
-    ],
-    workPreference: "Remote-First | Open to Relocation",
-    timeZone: "GMT+6 (Bangladesh Standard Time)",
-    noticePeriod: "Available Immediately",
-  },
-
-  // Technical Expertise
-  technicalSkills: {
-    frontend: {
-      frameworks: ["React.js", "Next.js 14"],
-      styling: [
-        "Tailwind CSS",
-        "Bootstrap 5",
-        "CSS3",
-        "SASS/SCSS",
-        "Material-UI",
-      ],
-      languages: ["JavaScript (ES6+)", "TypeScript (Learning)", "HTML5"],
-      stateManagement: ["Context API", "Redux Toolkit", "React Hooks"],
-      libraries: ["React Router", "Axios", "Formik", "Yup Validation"],
-    },
-    backend: {
-      runtime: ["Node.js (v18+)"],
-      frameworks: ["Express.js", "Next.js API Routes"],
-      apiDesign: [
-        "RESTful API Architecture",
-        "JSON Web Tokens (JWT)",
-        "API Rate Limiting",
-      ],
-      authentication: [
-        "Passport.js",
-        "OAuth 2.0",
-        "bcrypt Password Hashing",
-        "Session Management",
-      ],
-      security: [
-        "CORS Configuration",
-        "Helmet.js",
-        "Input Validation",
-        "SQL Injection Prevention",
-      ],
-    },
-    database: {
-      noSQL: ["MongoDB", "Mongoose ODM"],
-      cloudServices: ["Firebase Firestore", "Firebase Realtime Database"],
-      expertise: [
-        "Schema Design & Normalization",
-        "Query Optimization & Indexing",
-        "Aggregation Pipelines",
-        "Data Validation & Sanitization",
-        "Database Backup Strategies",
-      ],
-    },
-    tools: {
-      versionControl: ["Git", "GitHub", "Git Flow Workflow"],
-      editors: ["VS Code", "Visual Studio Code Extensions"],
-      apiTesting: ["Postman", "Thunder Client", "Insomnia"],
-      deployment: [
-        "Vercel",
-        "Netlify",
-        "Firebase Hosting",
-        "Railway",
-        "Render",
-      ],
-      design: ["Figma", "Adobe XD", "Canva", "Wireframing"],
-      packageManagers: ["npm", "yarn", "pnpm"],
-      collaboration: ["Slack", "Trello", "Jira", "Notion"],
-    },
-  },
-
-  // Professional Competencies
-  coreCompetencies: [
-    "🔐 Authentication & Authorization: JWT, OAuth 2.0, Role-Based Access Control (RBAC)",
-    "💳 Payment Gateway Integration: Stripe, PayPal, SSLCommerz, Razorpay",
-    "🏗️ REST API Development: Scalable architecture, versioning, documentation",
-    "⚡ Performance Optimization: Code splitting, lazy loading, memoization, caching",
-    "📊 Database Management: MongoDB aggregation, complex queries, optimization",
-    "🎨 Responsive Web Design: Mobile-first approach, CSS Grid, Flexbox",
-    "🔄 Version Control: Git workflows, branching strategies, code reviews",
-    "🧪 Testing & Debugging: Unit testing, integration testing, error handling",
-    "📱 Cross-Browser Compatibility: Chrome, Firefox, Safari, Edge support",
-    "🚀 Deployment & DevOps: CI/CD pipelines, environment management",
-    "📝 Technical Documentation: API docs, README files, code comments",
-    "♿ Web Accessibility: WCAG 2.1 AA compliance, semantic HTML, ARIA labels",
-  ],
-
-  // Learning & Development
-  continuousLearning: [
-    "TypeScript: Building type-safe applications",
-    "GraphQL: Modern API query language with Apollo Client",
-    "Docker & Kubernetes: Containerization and orchestration",
-    "AWS Services: EC2, S3, Lambda, DynamoDB",
-    "System Design: Scalability patterns and microservices",
-    "Testing: Jest, React Testing Library, Cypress E2E",
-  ],
-
-  // Professional Skills
-  softSkills: [
-    "Problem Solving: Breaking down complex problems into manageable solutions",
-    "Communication: Clear technical documentation and stakeholder updates",
-    "Team Collaboration: Agile/Scrum methodologies, pair programming",
-    "Time Management: Meeting deadlines with quality deliverables",
-    "Adaptability: Quick learner of new technologies and frameworks",
-    "Critical Thinking: Analytical approach to debugging and optimization",
-    "Leadership: Mentoring junior developers and code review leadership",
-  ],
-
-  // Achievements & Metrics
-  professionalMetrics: {
-    projectsCompleted: "30+ Full-Stack Applications",
-    linesOfCode: "50,000+ Production Code Written",
-    codingHours: "2,500+ Hours of Development",
-    problemsSolved: "250+ DSA & Real-World Challenges",
-    gitHubRepos: "35+ Public Repositories",
-    teamProjects: "10+ Collaborative Developments",
-    contributions: "Active Open Source Contributor",
-  },
-
-  // Interests & Activities
-  professionalInterests: [
-    "Open Source Contributions: Contributing to community projects",
-    "Technical Writing: Sharing knowledge through blog posts",
-    "Competitive Programming: Solving algorithmic challenges",
-    "Mentorship: Helping aspiring developers grow",
-    "Tech Communities: Active in developer forums and meetups",
-  ],
-
-  // Personal Touch
-  workPhilosophy:
-    "Write clean, maintainable code that solves real problems and creates lasting value 💡",
-  funFact:
-    "I debug with coffee ☕, build with passion 🔥, and deploy with confidence 🚀",
-  motto:
-    "Code is poetry written in logic. Every line should tell a story of efficiency and elegance! ✨",
-};
-
-// Professional Tagline
-console.log(
-  "🚀 Transforming ideas into scalable web solutions, one commit at a time!"
-);
-console.log("💼 Open to opportunities that challenge and inspire growth!");
-console.log("🤝 Let's build something extraordinary together!");
-```
+* 🔭 **Currently:** Engineering high-performance SaaS platforms and E-commerce solutions.
+* ⚡ **Core Focus:** Clean Code (SOLID), RESTful API Architecture, and Secure Authentication.
+* 🎓 **Background:** BSc in Computer Science & Engineering (Strong foundation in DSA & OOP).
 
 ---
 
@@ -220,7 +51,8 @@ console.log("🤝 Let's build something extraordinary together!");
 <div align="center">
 
 ### **Frontend Technologies** 🎨
-*Building Modern, Responsive, & Performant User Interfaces*
+
+_Building Modern, Responsive, & Performant User Interfaces_
 
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js Developer"/>
@@ -240,7 +72,8 @@ console.log("🤝 Let's build something extraordinary together!");
 </p>
 
 ### **Backend Technologies** ⚙️
-*Architecting Secure, Scalable Server-Side Solutions*
+
+_Architecting Secure, Scalable Server-Side Solutions_
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Backend Developer"/>
@@ -258,7 +91,8 @@ console.log("🤝 Let's build something extraordinary together!");
 </p>
 
 ### **Development Tools & Platforms** 🔧
-*Streamlining Workflows with Industry-Standard Tools*
+
+_Streamlining Workflows with Industry-Standard Tools_
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Version Control"/>
@@ -271,7 +105,8 @@ console.log("🤝 Let's build something extraordinary together!");
 </p>
 
 ### **Programming Languages** 💻
-*Strong Foundation in Multiple Programming Paradigms*
+
+_Strong Foundation in Multiple Programming Paradigms_
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -281,28 +116,7 @@ console.log("🤝 Let's build something extraordinary together!");
 
 </div>
 
----
 
-## 💼 Professional Competencies Matrix
-
-<div align="center">
-
-| 🎯 **Domain** | 🔧 **Technologies, Tools & Best Practices** |
-|---------------|---------------------------------------------|
-| **🔐 Authentication & Security** | JWT Tokens • bcrypt Password Hashing • OAuth 2.0 • Google/Facebook Authentication • Session Management • Role-Based Access Control (RBAC) • Secure API Design • HTTPS/SSL • CORS Configuration • Input Sanitization • XSS Prevention • CSRF Protection |
-| **💳 Payment Gateway Integration** | Stripe Checkout • PayPal REST API • SSLCommerz • Razorpay • Secure Payment Flows • Transaction Management • Webhook Event Handling • PCI DSS Compliance • Refund Processing • Subscription Billing • Invoice Generation |
-| **🏗️ System Architecture & API Design** | RESTful API Development • MVC Architecture Pattern • Modular Code Structure • Microservices Design • API Versioning • Rate Limiting • Request Validation • Error Handling Middleware • Code Reusability • Separation of Concerns • Scalability Planning |
-| **⚡ Performance Optimization** | Code Splitting • Lazy Loading • Dynamic Imports • Image Optimization (WebP, Compression) • Database Indexing • MongoDB Query Optimization • React.memo & useMemo • Caching Strategies (Redis) • CDN Integration • Minification • Tree Shaking |
-| **📊 Database Management** | MongoDB Schema Design • Mongoose Validation • Complex Aggregation Pipelines • Advanced Queries • Indexing Strategies • Pagination & Filtering • Data Relationships (One-to-One, One-to-Many) • Backup & Recovery • Migration Scripts • Data Sanitization |
-| **🎨 UI/UX Development** | Responsive Web Design • Mobile-First Approach • CSS Grid & Flexbox • Component-Based Architecture • Design Systems • Web Accessibility (WCAG 2.1 AA) • Cross-Browser Testing • Progressive Enhancement • Dark Mode Implementation • Animations & Transitions |
-| **🔄 DevOps & Deployment** | Git Workflows (Feature Branch, GitFlow) • Continuous Integration/Continuous Deployment (CI/CD) • Environment Variables Management • Automated Testing • Docker Basics • Vercel/Netlify Deployment • Domain & DNS Management • SSL Certificates • Performance Monitoring |
-| **🧪 Testing & Quality Assurance** | Unit Testing (Jest) • Integration Testing • E2E Testing (Cypress) • API Testing (Postman) • Code Linting (ESLint) • Code Formatting (Prettier) • Debugging Tools • Error Tracking (Sentry) • Performance Profiling • Security Audits |
-| **📝 Documentation & Communication** | Technical Documentation • API Documentation (Swagger/Postman) • README Best Practices • Code Comments • Git Commit Messages • User Guides • System Architecture Diagrams • Stakeholder Communication • Agile Sprint Planning |
-| **✅ Software Engineering Best Practices** | Clean Code Principles • DRY (Don't Repeat Yourself) • SOLID Principles • KISS (Keep It Simple) • Design Patterns • Refactoring • Code Reviews • Pair Programming • Test-Driven Development (TDD) • SEO Optimization • Web Performance Best Practices |
-
-</div>
-
----
 
 ## 📊 GitHub Statistics & Developer Activity
 
@@ -336,13 +150,13 @@ console.log("🤝 Let's build something extraordinary together!");
   </picture>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Hridoykhan4&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Hridoykhan4&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
     <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Hridoykhan4&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Md. Toyob Uddin Hridoy GitHub Achievement Trophies" />
   </picture>
-</div>
+</div> -->
 
 ---
 
@@ -406,20 +220,20 @@ console.log("🤝 Let's build something extraordinary together!");
 
 <div align="center">
 
-| 📌 **Achievement Category** | 📈 **Measurable Impact** | 🎯 **Professional Value** |
-|----------------------------|--------------------------|---------------------------|
-| **🎓 Academic Credentials** | BSc in Computer Science & Engineering | Strong theoretical foundation in algorithms, data structures, OOP |
-| **💻 Production Applications** | 30+ Deployed Full-Stack Web Applications | Proven ability to deliver complete solutions from concept to deployment |
-| **📦 Open Source Contributions** | 35+ Public GitHub Repositories | Active community engagement and code sharing |
-| **🔧 Code Volume** | 50,000+ Lines of Production Code | Substantial hands-on development experience |
-| **⏱️ Development Experience** | 2,500+ Hours of Active Coding | Deep practical knowledge across full development lifecycle |
-| **🎯 Problem-Solving** | 250+ DSA & Real-World Challenges Solved | Strong algorithmic thinking and optimization skills |
-| **🤝 Team Projects** | 10+ Successful Collaborative Developments | Proven teamwork and communication abilities |
-| **⭐ Community Recognition** | Growing GitHub Stars & Followers | Recognition for quality work and helpful contributions |
-| **🚀 Deployment Success Rate** | 95%+ Bug-Free Production Deployments | High code quality and thorough testing practices |
-| **📱 Responsive Design** | 100% Mobile-Responsive Applications | Commitment to accessibility and user experience |
-| **🔐 Security Implementation** | Zero Critical Security Vulnerabilities | Strong security mindset and best practices |
-| **⚡ Performance Optimization** | 40%+ Average Load Time Improvement | Focus on user experience and technical excellence |
+| 📌 **Achievement Category**      | 📈 **Measurable Impact**                  | 🎯 **Professional Value**                                               |
+| -------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
+| **🎓 Academic Credentials**      | BSc in Computer Science & Engineering     | Strong theoretical foundation in algorithms, data structures, OOP       |
+| **💻 Production Applications**   | 30+ Deployed Full-Stack Web Applications  | Proven ability to deliver complete solutions from concept to deployment |
+| **📦 Open Source Contributions** | 35+ Public GitHub Repositories            | Active community engagement and code sharing                            |
+| **🔧 Code Volume**               | 50,000+ Lines of Production Code          | Substantial hands-on development experience                             |
+| **⏱️ Development Experience**    | 2,500+ Hours of Active Coding             | Deep practical knowledge across full development lifecycle              |
+| **🎯 Problem-Solving**           | 250+ DSA & Real-World Challenges Solved   | Strong algorithmic thinking and optimization skills                     |
+| **🤝 Team Projects**             | 10+ Successful Collaborative Developments | Proven teamwork and communication abilities                             |
+| **⭐ Community Recognition**     | Growing GitHub Stars & Followers          | Recognition for quality work and helpful contributions                  |
+| **🚀 Deployment Success Rate**   | 95%+ Bug-Free Production Deployments      | High code quality and thorough testing practices                        |
+| **📱 Responsive Design**         | 100% Mobile-Responsive Applications       | Commitment to accessibility and user experience                         |
+| **🔐 Security Implementation**   | Zero Critical Security Vulnerabilities    | Strong security mindset and best practices                              |
+| **⚡ Performance Optimization**  | 40%+ Average Load Time Improvement        | Focus on user experience and technical excellence                       |
 
 </div>
 
@@ -433,18 +247,18 @@ console.log("🤝 Let's build something extraordinary together!");
 
 </div>
 
-| 🎯 **Attribute** | 💡 **Value I Bring** |
-|-----------------|---------------------|
-| **🔥 MERN Stack Mastery** | Deep expertise in React, Node.js, Express, MongoDB with 30+ production applications demonstrating real-world problem-solving abilities |
-| **🚀 Fast Learner & Adapter** | Quickly grasp new technologies and frameworks; currently mastering TypeScript, GraphQL, and AWS cloud services |
-| **💎 Clean Code Advocate** | Write maintainable, well-documented code following SOLID principles, DRY, and industry best practices for long-term scalability |
-| **🔐 Security-First Mindset** | Implement robust authentication, data encryption, and follow OWASP guidelines to protect user data and business assets |
-| **⚡ Performance Optimizer** | Passionate about building fast, efficient applications through code splitting, lazy loading, and database optimization techniques |
-| **🤝 Excellent Communicator** | Clear technical documentation, effective stakeholder communication, and collaborative team player in Agile environments |
-| **🎨 UX/UI Conscious** | Create intuitive, responsive interfaces with attention to accessibility, ensuring exceptional user experience across all devices |
-| **🧪 Quality Assurance** | Thorough testing practices, debugging skills, and commitment to delivering bug-free, production-ready code |
-| **📚 Continuous Learner** | Dedicated to staying current with industry trends, emerging technologies, and evolving best practices in web development |
-| **💼 Business-Oriented** | Understand that code serves business goals; focus on delivering features that provide real value to users and stakeholders |
+| 🎯 **Attribute**              | 💡 **Value I Bring**                                                                                                                   |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **🔥 MERN Stack Mastery**     | Deep expertise in React, Node.js, Express, MongoDB with 30+ production applications demonstrating real-world problem-solving abilities |
+| **🚀 Fast Learner & Adapter** | Quickly grasp new technologies and frameworks; currently mastering TypeScript, GraphQL, and AWS cloud services                         |
+| **💎 Clean Code Advocate**    | Write maintainable, well-documented code following SOLID principles, DRY, and industry best practices for long-term scalability        |
+| **🔐 Security-First Mindset** | Implement robust authentication, data encryption, and follow OWASP guidelines to protect user data and business assets                 |
+| **⚡ Performance Optimizer**  | Passionate about building fast, efficient applications through code splitting, lazy loading, and database optimization techniques      |
+| **🤝 Excellent Communicator** | Clear technical documentation, effective stakeholder communication, and collaborative team player in Agile environments                |
+| **🎨 UX/UI Conscious**        | Create intuitive, responsive interfaces with attention to accessibility, ensuring exceptional user experience across all devices       |
+| **🧪 Quality Assurance**      | Thorough testing practices, debugging skills, and commitment to delivering bug-free, production-ready code                             |
+| **📚 Continuous Learner**     | Dedicated to staying current with industry trends, emerging technologies, and evolving best practices in web development               |
+| **💼 Business-Oriented**      | Understand that code serves business goals; focus on delivering features that provide real value to users and stakeholders             |
 
 ---
 
@@ -487,7 +301,7 @@ console.log("🤝 Let's build something extraordinary together!");
     <img src="https://img.shields.io/badge/👥_Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow Md. Toyob Uddin Hridoy on Facebook" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <p>
     <b>📞 Available for Quick Calls | ⚡ Fast Response Time | 🌍 Remote-Ready</b>
@@ -522,12 +336,14 @@ console.log("🤝 Let's build something extraordinary together!");
   <br/>
 
 <p>
-  <b>🔗 Portfolio:</b> Coming Soon<br/>
+  <b>🔗 Portfolio:</b> <a href="https://md-toyob-hridoy-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"> <br/>
   <b>📧 Email:</b> toyobuddinhridoy@gmail.com<br/>
   <b>💼 LinkedIn:</b> linkedin.com/in/md-toyob-uddin-hridoy<br/>
   <b>🌍 Location:</b> Chittagong, Bangladesh
 </p>
 
-
 </div>
 
+<!-- TODO -->
+<!-- 1. Link them correctly -->
+<!-- TODO -->
