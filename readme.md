@@ -11,13 +11,14 @@
 
 <div align="center">
   
-  <a href="https://md-toyob-hridoy-portfolio.vercel.app/" target="_blank">
+  <!-- Primary Professional Links -->
+  <a href="https://md-toyob-hridoy-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge" alt="Portfolio - Md. Toyob Uddin Hridoy"/>
   </a>
-  <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy" target="_blank">
+  <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Toyob Hridoy"/>
   </a>
-  <a href="https://github.com/Hridoykhan4" target="_blank">
+  <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Hridoy Khan"/>
   </a>
   <a href="mailto:toyobuddinhridoy@gmail.com">
@@ -26,13 +27,14 @@
   
   <br/>
   
-  <a href="https://x.com/ToyobHridoy85" target="_blank">
+  <!-- Social Media Links -->
+  <a href="https://x.com/ToyobHridoy85" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter - Toyob Hridoy"/>
   </a>
-  <a href="https://www.instagram.com/toyobhridoy/" target="_blank">
+  <a href="https://www.instagram.com/toyobhridoy/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - Toyob Hridoy"/>
   </a>
-  <a href="https://www.facebook.com/md.toyob.uddin.hridoy" target="_blank">
+  <a href="https://www.facebook.com/md.toyob.uddin.hridoy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook - Md. Toyob Uddin Hridoy"/>
   </a>
 
@@ -40,12 +42,14 @@
 
 <br/>
 
+<!-- Dynamic Typing Animation -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I'm+Md.+Toyob+Uddin+Hridoy;Full-Stack+MERN+Developer+%F0%9F%92%BB;BSc+in+Computer+Science+%F0%9F%8E%93;Building+Scalable+Web+Solutions+%F0%9F%9A%80;Open+to+Remote+Opportunities+%E2%9C%A8" alt="Md. Toyob Uddin Hridoy - Full Stack Developer" />
   </a>
 </h1>
 
+<!-- Profile Statistics -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hridoykhan4&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Hridoykhan4?label=Followers&style=for-the-badge&color=00D9FF&logo=github" alt="GitHub Followers"/>
@@ -67,13 +71,12 @@ I'm **Md. Toyob Uddin Hridoy** (also known as **Hridoy** or **Toyob**), a **Full
 I focus on writing **clean, maintainable code** following **SOLID principles** and industry best practices. From implementing **JWT authentication** to integrating **Stripe payment gateways**, I deliver solutions that solve real business problems.
 
 **🎯 Current Focus:**
-
 - 🚀 Building production-ready SaaS platforms & e-commerce solutions
 - 📚 Mastering TypeScript, Docker & AWS cloud services
 - 💼 Actively seeking **full-time** or **remote** developer opportunities
 - 🤝 Open to collaborations on impactful projects
 
-**🔗 Explore My Work:** [md-toyob-hridoy-portfolio.vercel.app](https://md-toyob-hridoy-portfolio.vercel.app/)
+**🔗 Explore My Work:** **[md-toyob-hridoy-portfolio.vercel.app](https://md-toyob-hridoy-portfolio.vercel.app/)**
 
 ---
 
@@ -82,7 +85,6 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 <div align="center">
 
 ### Frontend Development 🎨
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -96,7 +98,6 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend Development ⚙️
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -107,7 +108,6 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### Tools & Platforms 🔧
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -118,7 +118,6 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Programming Languages 💻
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -134,14 +133,12 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 <td width="50%" valign="top">
 
 ### 🔐 Secure Authentication
-
 - JWT-based auth systems
 - OAuth 2.0 integration (Google, Facebook)
 - Role-Based Access Control (RBAC)
 - Session & password management
 
 ### 💳 Payment Solutions
-
 - Stripe & PayPal integration
 - SSLCommerz for local payments
 - Secure transaction handling
@@ -151,14 +148,12 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 <td width="50%" valign="top">
 
 ### 🏗️ Scalable Architecture
-
 - RESTful API design & versioning
 - MVC pattern implementation
 - Modular, maintainable code
 - Database optimization & indexing
 
 ### 🎨 Modern UI/UX
-
 - Responsive, mobile-first design
 - Web accessibility (WCAG) compliance
 - Cross-browser compatibility
@@ -174,21 +169,29 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hridoykhan4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats - Md. Toyob Uddin Hridoy" />
+  <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hridoykhan4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=8&rank_icon=github" alt="GitHub Stats - Md. Toyob Uddin Hridoy" />
+  </a>
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridoykhan4&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages - Toyob Hridoy" />
-  
-</div>
-
-<div align="center">
-  
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Hridoykhan4&theme=tokyonight&hide_border=true" alt="GitHub Streak - Hridoy Khan" />
+  <a href="https://github.com/Hridoykhan4?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hridoykhan4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&border_radius=8&card_width=400" alt="Top Languages - Toyob Hridoy" />
+  </a>
   
 </div>
 
 <div align="center">
   
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hridoykhan4&theme=tokyo-night&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph - Md. Toyob Uddin Hridoy" />
+  <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Hridoykhan4&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak - Hridoy Khan" />
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hridoykhan4&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity&radius=8" alt="Contribution Graph - Md. Toyob Uddin Hridoy" />
+  </a>
   
 </div>
 
@@ -212,7 +215,7 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
   
   <p>
     I'm actively seeking positions where I can contribute to meaningful projects,<br/>
-    collaborative with talented teams, and grow as a professional developer.
+    collaborate with talented teams, and grow as a professional developer.
   </p>
 
   <br/>
@@ -220,12 +223,12 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
   <table>
   <tr>
     <td align="center">
-      <a href="https://md-toyob-hridoy-portfolio.vercel.app/" target="_blank">
+      <a href="https://md-toyob-hridoy-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/🌐_View_Portfolio-00D9FF?style=for-the-badge" alt="Portfolio"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy" target="_blank">
+      <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
       </a>
     </td>
@@ -237,17 +240,17 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Hridoykhan4" target="_blank">
+      <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/🔍_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/ToyobHridoy85" target="_blank">
+      <a href="https://x.com/ToyobHridoy85" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/𝕏_Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Twitter"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/toyobhridoy/" target="_blank">
+      <a href="https://www.instagram.com/toyobhridoy/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
       </a>
     </td>
@@ -282,9 +285,25 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
   </p>
   
   <p>
-    <b>💙 Built with passion by <a href="https://md-toyob-hridoy-portfolio.vercel.app/">Md. Toyob Uddin Hridoy</a></b>
+    <b>💙 Built with passion by <a href="https://md-toyob-hridoy-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Md. Toyob Uddin Hridoy</a></b>
   </p>
   
   <sub>BSc in Computer Science & Engineering | Port City International University (2022-2025)</sub>
   
 </div>
+
+<!-- 
+SEO Optimization Keywords:
+Md. Toyob Uddin Hridoy, Toyob Hridoy, Hridoy Khan, Hridoykhan4,
+Full Stack Developer Bangladesh, MERN Stack Developer Chittagong,
+React Developer, Node.js Developer, MongoDB Developer, Express.js Developer,
+JavaScript Developer, Web Developer Bangladesh, TypeScript Developer,
+Fresh Graduate Developer, BSc CSE Port City International University,
+Remote Developer Bangladesh, Open to Work Developer, Freelance Developer,
+Full Time Developer Position, Contract Developer Bangladesh,
+MERN Stack Remote Jobs, React Node.js MongoDB Developer,
+Chittagong Web Developer, Bangladesh Software Engineer,
+Portfolio Md Toyob Hridoy, GitHub Hridoykhan4,
+JWT Authentication Developer, Stripe Integration Developer,
+REST API Developer, Firebase Developer, Tailwind CSS Developer
+-->
