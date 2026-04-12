@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Chittagong,_Bangladesh-00D9FF?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍_Location-Dhaka,_Bangladesh-00D9FF?style=for-the-badge" alt="Location"/>
   <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-00D9FF?style=for-the-badge" alt="Open to Work"/>
   <img src="https://img.shields.io/badge/🌍_Work-Remote_Ready-00D9FF?style=for-the-badge" alt="Remote Ready"/>
 </p>
@@ -71,6 +71,7 @@ I'm **Md. Toyob Uddin Hridoy** (also known as **Hridoy** or **Toyob**), a **Full
 I focus on writing **clean, maintainable code** following **SOLID principles** and industry best practices. From implementing **JWT authentication** to integrating **Stripe payment gateways**, I deliver solutions that solve real business problems.
 
 **🎯 Current Focus:**
+
 - 🚀 Building production-ready SaaS platforms & e-commerce solutions
 - 📚 Mastering TypeScript, Docker & AWS cloud services
 - 💼 Actively seeking **full-time** or **remote** developer opportunities
@@ -85,6 +86,7 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 <div align="center">
 
 ### Frontend Development 🎨
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -98,6 +100,7 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend Development ⚙️
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -108,6 +111,7 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### Tools & Platforms 🔧
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -118,6 +122,7 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Programming Languages 💻
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -133,12 +138,14 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 <td width="50%" valign="top">
 
 ### 🔐 Secure Authentication
+
 - JWT-based auth systems
 - OAuth 2.0 integration (Google, Facebook)
 - Role-Based Access Control (RBAC)
 - Session & password management
 
 ### 💳 Payment Solutions
+
 - Stripe & PayPal integration
 - SSLCommerz for local payments
 - Secure transaction handling
@@ -148,12 +155,14 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 <td width="50%" valign="top">
 
 ### 🏗️ Scalable Architecture
+
 - RESTful API design & versioning
 - MVC pattern implementation
 - Modular, maintainable code
 - Database optimization & indexing
 
 ### 🎨 Modern UI/UX
+
 - Responsive, mobile-first design
 - Web accessibility (WCAG) compliance
 - Cross-browser compatibility
@@ -260,7 +269,7 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
   <br/>
 
   <p>
-    <b>📍 Location:</b> Chittagong, Bangladesh<br/>
+    <b>📍 Location:</b> Dhaka, Bangladesh<br/>
     <b>💼 Status:</b> Open to Work<br/>
     <b>🌍 Preference:</b> Remote-First | Flexible<br/>
     <b>⚡ Response Time:</b> Fast & Professional
@@ -291,19 +300,3 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
   <sub>BSc in Computer Science & Engineering | Port City International University (2022-2025)</sub>
   
 </div>
-
-<!-- 
-SEO Optimization Keywords:
-Md. Toyob Uddin Hridoy, Toyob Hridoy, Hridoy Khan, Hridoykhan4,
-Full Stack Developer Bangladesh, MERN Stack Developer Chittagong,
-React Developer, Node.js Developer, MongoDB Developer, Express.js Developer,
-JavaScript Developer, Web Developer Bangladesh, TypeScript Developer,
-Fresh Graduate Developer, BSc CSE Port City International University,
-Remote Developer Bangladesh, Open to Work Developer, Freelance Developer,
-Full Time Developer Position, Contract Developer Bangladesh,
-MERN Stack Remote Jobs, React Node.js MongoDB Developer,
-Chittagong Web Developer, Bangladesh Software Engineer,
-Portfolio Md Toyob Hridoy, GitHub Hridoykhan4,
-JWT Authentication Developer, Stripe Integration Developer,
-REST API Developer, Firebase Developer, Tailwind CSS Developer
--->
