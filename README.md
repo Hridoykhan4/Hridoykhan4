@@ -1,9 +1,8 @@
 <div align="center">
   <img 
-    src="./images/ProfilePic.jpeg" 
+    src="./assets/readme/portrait.svg" 
     alt="Md. Toyob Uddin Hridoy - Full Stack MERN Developer | React & Node.js Expert | Bangladesh"
-    width="400" 
-    style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"
+    width="400"
   />
 </div>
 
@@ -45,7 +44,7 @@
 <!-- Dynamic Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I'm+Md.+Toyob+Uddin+Hridoy;Full-Stack+MERN+Developer+%F0%9F%92%BB;BSc+in+Computer+Science+%F0%9F%8E%93;Building+Scalable+Web+Solutions+%F0%9F%9A%80;Open+to+Remote+Opportunities+%E2%9C%A8" alt="Md. Toyob Uddin Hridoy - Full Stack Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I'm+Md.+Toyob+Uddin+Hridoy;AI+Automation+Engineer+%F0%9F%A4%96;Full-Stack+Systems+Builder+%F0%9F%92%BB;n8n+%C2%B7+AI+Agents+%C2%B7+LLM+Workflows+%E2%9A%A1;Building+Digital+Hridoy+%F0%9F%9A%80" alt="Md. Toyob Uddin Hridoy - AI Automation Engineer and Full-Stack Systems Builder" />
   </a>
 </h1>
 
@@ -66,16 +65,16 @@
 
 ## 👨‍💻 About Me
 
-I'm **Md. Toyob Uddin Hridoy** (also known as **Hridoy** or **Toyob**), a **Full-Stack Web Developer** specializing in the **MERN Stack**. With a **BSc in Computer Science & Engineering** from **Port City International University** (2022-2025), I build applications that are **secure, scalable, and performance-optimized**.
+I'm **Md. Toyob Uddin Hridoy** — **Hridoy** — a **Software Engineer in R&D at Compliance BD Ltd**, where I turn business operations into **autonomous digital systems**.
 
-I focus on writing **clean, maintainable code** following **SOLID principles** and industry best practices. From implementing **JWT authentication** to integrating **Stripe payment gateways**, I deliver solutions that solve real business problems.
+My foundation is **full-stack MERN engineering** — not tutorials, but multi-role platforms with real payments, deployed and running in production. My edge is **AI automation**: **n8n workflows**, **LLM-powered autonomous agents (Hermes)**, and **API orchestration** that let software handle the repetitive work — while humans stay in control of every decision that matters. **BSc in Computer Science & Engineering**, Port City International University (2022-2026).
 
-**🎯 Current Focus:**
+**🎯 Current Mission:**
 
-- 🚀 Building production-ready SaaS platforms & e-commerce solutions
-- 📚 Mastering TypeScript, Docker & AWS cloud services
-- 💼 Actively seeking **full-time** or **remote** developer opportunities
-- 🤝 Open to collaborations on impactful projects
+- 🤖 Building **Digital Hridoy** — a cloud-operated autonomous counterpart that works while I sleep
+- ⚡ Shipping **production AI agents** & n8n automations for real business processes
+- 🏗️ Turning prototypes into **observable, maintainable production systems**
+- 📡 Sharpening **TypeScript, Next.js** & advanced backend architecture
 
 **🔗 Explore My Work:** **[md-toyob-hridoy-portfolio.vercel.app](https://md-toyob-hridoy-portfolio.vercel.app/)**
 
@@ -84,6 +83,14 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+### AI & Automation 🤖
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/🤖_AI_Agents-00D9FF?style=for-the-badge)
+![Hermes](https://img.shields.io/badge/⚡_Hermes-7C5CFF?style=for-the-badge)
+![LLM Workflows](https://img.shields.io/badge/🧠_LLM_Workflows-0891B2?style=for-the-badge)
+![API Orchestration](https://img.shields.io/badge/🔗_API_Orchestration-155E75?style=for-the-badge)
 
 ### Frontend Development 🎨
 
@@ -133,86 +140,41 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
 
 ## 💼 What I Deliver
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Secure Authentication
-
-- JWT-based auth systems
-- OAuth 2.0 integration (Google, Facebook)
-- Role-Based Access Control (RBAC)
-- Session & password management
-
-### 💳 Payment Solutions
-
-- Stripe & PayPal integration
-- SSLCommerz for local payments
-- Secure transaction handling
-- Webhook event management
-
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ Scalable Architecture
-
-- RESTful API design & versioning
-- MVC pattern implementation
-- Modular, maintainable code
-- Database optimization & indexing
-
-### 🎨 Modern UI/UX
-
-- Responsive, mobile-first design
-- Web accessibility (WCAG) compliance
-- Cross-browser compatibility
-- Performance optimization
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/readme/capabilities.svg" width="100%" alt="System capabilities — Secure Authentication: JWT flows with Firebase Auth, OAuth 2.0 (Google/Facebook), RBAC, server-side role validation. Payment Systems: Stripe PaymentIntents in production, SSLCommerz, server-side price recalculation, webhook handling. AI & Automation: n8n workflow orchestration, LLM-powered autonomous agents (Hermes), API orchestration, business-process automation. Production Architecture: REST API design, MongoDB indexing & aggregations, CI/CD with GitHub Actions, observability & recovery paths."/>
+</div>
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  
-  <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hridoykhan4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=8&rank_icon=github" alt="GitHub Stats - Md. Toyob Uddin Hridoy" />
-  </a>
-  
-  <a href="https://github.com/Hridoykhan4?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hridoykhan4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&border_radius=8&card_width=400" alt="Top Languages - Toyob Hridoy" />
-  </a>
-  
-</div>
+<!-- Fully self-hosted telemetry: generated by scripts/generate-telemetry.mjs
+     and refreshed nightly by .github/workflows/update-telemetry.yml.
+     No third-party widget services — nothing here can break. -->
 
 <div align="center">
   
   <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Hridoykhan4&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak - Hridoy Khan" />
+    <img width="100%" src="./assets/readme/telemetry.svg" alt="Live GitHub telemetry dashboard — contributions in the past 12 months, current streak, longest streak, total stars, followers, public repositories, and language distribution." />
   </a>
-  
-</div>
-
-<div align="center">
   
   <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hridoykhan4&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity&radius=8" alt="Contribution Graph - Md. Toyob Uddin Hridoy" />
+    <img width="100%" src="./assets/readme/contribution-grid.svg" alt="Animated contribution activity grid for the last 12 months with a scanning light sweep." />
   </a>
+  
+  <sub>Self-hosted telemetry — rebuilt nightly by a <a href="./.github/workflows/update-telemetry.yml">GitHub Action</a> from live data. No third-party widgets, nothing to break.</sub>
   
 </div>
 
 ---
 
-## 🎯 Professional Goals
+## 🎯 Mission Parameters
 
-- 💼 Seeking **full-time** or **contract-based** developer positions
-- 🌍 **Remote-first** opportunities preferred (open to office-based roles)
-- 🤝 Interested in **collaborative team environments** with growth potential
-- 🚀 Eager to work on **impactful products** that solve real problems
-- 📚 Committed to **continuous learning** and staying current with tech trends
+- 🛰️ **Primary directive** — turn business operations into **autonomous digital systems**
+- ⚙️ **Rules of engagement** — ship **production-grade** systems: observable, recoverable, maintainable
+- 🤝 **Alliances** — open to teams & founders building **serious products** (**remote-first** 🌍, flexible)
+- 🧠 **Human protocol** — automate the repetitive, **never the judgment**
+- 📈 **Growth loop** — every project compounds: full-stack foundation → AI automation edge
 
 ---
 
@@ -297,6 +259,6 @@ I focus on writing **clean, maintainable code** following **SOLID principles** a
     <b>💙 Built with passion by <a href="https://md-toyob-hridoy-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Md. Toyob Uddin Hridoy</a></b>
   </p>
   
-  <sub>BSc in Computer Science & Engineering | Port City International University (2022-2025)</sub>
+  <sub>BSc in Computer Science & Engineering | Port City International University (2022-2026)</sub>
   
 </div>

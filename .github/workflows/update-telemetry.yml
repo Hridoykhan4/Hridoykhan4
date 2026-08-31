@@ -1,0 +1,50 @@
+name: Update Profile Telemetry
+
+# Regenerates assets/readme/telemetry.svg and assets/readme/contribution-grid.svg
+# from live public GitHub data using scripts/generate-telemetry.mjs.
+# Runs nightly, on relevant pushes, and manually from the Actions tab.
+# No secrets or manual setup required - it uses the built-in GITHUB_TOKEN.
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate-telemetry.mjs"
+      - ".github/workflows/update-telemetry.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  telemetry:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate telemetry SVGs
+        run: node scripts/generate-telemetry.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/readme/telemetry.svg assets/readme/contribution-grid.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh profile telemetry"
+            git push
+          fi
