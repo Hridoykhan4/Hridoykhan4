@@ -155,11 +155,11 @@ My foundation is **full-stack MERN engineering** — not tutorials, but multi-ro
 <div align="center">
   
   <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
-    <img width="100%" src="./assets/readme/telemetry.svg" alt="Live GitHub telemetry dashboard — contributions in the past 12 months, current streak, longest streak, total stars, followers, public repositories, and language distribution." />
+    <img width="100%" src="./assets/readme/telemetry.svg" alt="Live GitHub telemetry - longest unbroken contribution streak, total contributions and active days in the past 12 months, current streak, total stars, followers, public repositories, and language distribution by repository." />
   </a>
   
   <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
-    <img width="100%" src="./assets/readme/contribution-grid.svg" alt="Animated contribution activity grid for the last 12 months with a scanning light sweep." />
+    <img width="100%" src="./assets/readme/contribution-grid.svg" alt="Contribution activity grid for the last 12 months, with the longest unbroken streak bracketed and labelled beneath the weeks it spans." />
   </a>
   
   <sub>Self-hosted telemetry — rebuilt nightly by a <a href="./.github/workflows/update-telemetry.yml">GitHub Action</a> from live data. No third-party widgets, nothing to break.</sub>
@@ -242,23 +242,26 @@ My foundation is **full-stack MERN engineering** — not tutorials, but multi-ro
 ---
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's+Build+Together!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
-  
+
+  <img src="./assets/readme/footer.svg" width="100%" alt="Let's build together - Md. Toyob Uddin Hridoy, Full-Stack Systems and AI Automation engineer. BSc in Computer Science and Engineering, Port City International University 2022-2026. Status: open to work, remote-first, fast and professional replies."/>
+
   <br/>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Hridoykhan4&label=Total+Visitors&color=00D9FF&style=for-the-badge" alt="Visitor Count" />
-  </p>
-  
-  <p>
-    <i>⭐ Star my repositories if you find them helpful!</i>
-  </p>
-  
-  <p>
-    <b>💙 Built with passion by <a href="https://md-toyob-hridoy-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Md. Toyob Uddin Hridoy</a></b>
-  </p>
-  
-  <sub>BSc in Computer Science & Engineering | Port City International University (2022-2026)</sub>
-  
+
+  <a href="https://md-toyob-hridoy-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-toyob-uddin-hridoy" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:toyobuddinhridoy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Hridoykhan4" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Hridoykhan4&label=Total+Visitors&color=00D9FF&style=for-the-badge" alt="Total profile visitors"/>
+
 </div>

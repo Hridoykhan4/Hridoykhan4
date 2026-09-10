@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="444" viewBox="0 0 1000 444" role="img" aria-labelledby="ftTitle ftDesc">
+  <title id="ftTitle">Let's Build Together — Md. Toyob Uddin Hridoy</title>
+  <desc id="ftDesc">Sign-off panel. Md. Toyob Uddin Hridoy, full-stack systems and AI automation engineer. BSc in Computer Science and Engineering, Port City International University, 2022 to 2026. Status: open to work, remote-first, fast and professional replies.</desc>
+
+  <defs>
+    <radialGradient id="ftAuCy" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ftAuVi" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ftAuBl" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="ftDots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#7FA3C9" fill-opacity="0.075"/>
+    </pattern>
+
+    <linearGradient id="ftHead" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0%" stop-color="#5FEFFF"/>
+      <stop offset="46%" stop-color="#7DA8FF"/>
+      <stop offset="100%" stop-color="#C9B6FF"/>
+    </linearGradient>
+    <linearGradient id="ftRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#22D3EE" stop-opacity="0.75"/>
+      <stop offset="82%" stop-color="#A78BFA" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ftUnder" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="ftTermFill" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0%" stop-color="#132338" stop-opacity="0.88"/>
+      <stop offset="60%" stop-color="#080D17" stop-opacity="0.94"/>
+      <stop offset="100%" stop-color="#05080F" stop-opacity="0.96"/>
+    </linearGradient>
+    <linearGradient id="ftRim" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#6EA0E8" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.42"/>
+    </linearGradient>
+    <linearGradient id="ftTopLite" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ftBarFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#16233A" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#101A2B" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="ftSweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8FF3FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8FF3FF" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#8FF3FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="ftGlow" x="-120%" y="-120%" width="340%" height="340%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="ftHeadGlow" x="-25%" y="-60%" width="150%" height="220%">
+      <feGaussianBlur stdDeviation="14" result="b"/>
+      <feColorMatrix in="b" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.72  0 0 0 0 0.95  0 0 0 0.55 0" result="c"/>
+      <feMerge><feMergeNode in="c"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="ftHalo" x="-25%" y="-35%" width="150%" height="175%">
+      <feDropShadow dx="0" dy="4" stdDeviation="20" flood-color="#2E7FD4" flood-opacity="0.20"/>
+    </filter>
+
+    <clipPath id="ftClip"><rect x="0" y="0" width="1000" height="444" rx="20"/></clipPath>
+    <clipPath id="ftTermClip"><rect x="32" y="164" width="936" height="236" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#ftClip)">
+    <!-- ── ground ── -->
+    <rect width="1000" height="444" fill="#05080F"/>
+    <ellipse cx="180" cy="70" rx="520" ry="300" fill="url(#ftAuCy)"/>
+    <ellipse cx="850" cy="60" rx="500" ry="290" fill="url(#ftAuVi)"/>
+    <ellipse cx="500" cy="300" rx="560" ry="280" fill="url(#ftAuBl)"/>
+    <rect width="1000" height="444" fill="url(#ftDots)"/>
+    <rect x="0" y="0" width="1000" height="2" fill="url(#ftRule)"/>
+
+    <!-- ── hero ── -->
+    <text x="500" y="52" text-anchor="middle" font-family="'Cascadia Code','Consolas','SF Mono',Menlo,monospace" font-size="12" letter-spacing="5.5" fill="#5B7099">OPEN TO FULL-TIME  ·  REMOTE-FIRST  ·  WORLDWIDE</text>
+    <text x="500" y="118" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-1" fill="url(#ftHead)" filter="url(#ftHeadGlow)">Let's Build Together</text>
+    <g filter="url(#ftGlow)">
+      <rect x="430" y="136" width="140" height="3" rx="1.5" fill="url(#ftUnder)"/>
+    </g>
+
+    <!-- ── terminal ── -->
+    <g clip-path="url(#ftTermClip)">
+      <rect x="32" y="164" width="936" height="236" fill="url(#ftTermFill)"/>
+      <rect x="32" y="164" width="936" height="40" fill="url(#ftBarFill)"/>
+      <rect x="32" y="203.5" width="936" height="1" fill="#22D3EE" fill-opacity="0.14"/>
+      <rect x="100" y="164.6" width="480" height="1.2" fill="url(#ftTopLite)"/>
+
+      <circle cx="58" cy="184" r="5.5" fill="#FF5F57"/>
+      <circle cx="78" cy="184" r="5.5" fill="#FEBC2E"/>
+      <circle cx="98" cy="184" r="5.5" fill="#28C840"/>
+      <text x="500" y="189" text-anchor="middle" font-family="'Cascadia Code','Consolas',Menlo,monospace" font-size="12" letter-spacing="1" fill="#4E6288">hridoy@digital — ~/lets-build</text>
+
+      <g font-family="'Cascadia Code','Consolas','SF Mono',Menlo,monospace">
+        <text x="60" y="244" font-size="15.5" fill="#5FEFFF">$<tspan fill="#FFFFFF" xml:space="preserve">  whoami</tspan></text>
+        <text x="60" y="270" font-size="15.5" fill="#4E6288">→<tspan fill="#C3D2E8" xml:space="preserve">  Md. Toyob Uddin Hridoy — Full-Stack Systems + AI Automation</tspan></text>
+        <text x="60" y="294" font-size="13.5" fill="#5B7099" xml:space="preserve">   BSc CSE · Port City International University · 2022–2026</text>
+        <text x="60" y="328" font-size="15.5" fill="#5FEFFF">$<tspan fill="#FFFFFF" xml:space="preserve">  status --now</tspan></text>
+      </g>
+
+      <!-- status pills -->
+      <g font-family="'Cascadia Code','Consolas',Menlo,monospace" font-size="12" letter-spacing="1.5">
+        <rect x="60" y="340" width="150" height="28" rx="14" fill="#28C840" fill-opacity="0.10" stroke="#28C840" stroke-opacity="0.42"/>
+        <circle cx="76" cy="354" r="3.6" fill="#3BE85A" filter="url(#ftGlow)">
+          <animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/>
+        </circle>
+        <text x="90" y="358" fill="#8FEFA0">OPEN TO WORK</text>
+
+        <rect x="224" y="340" width="150" height="28" rx="14" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.42"/>
+        <circle cx="240" cy="354" r="3.6" fill="#5FEFFF" filter="url(#ftGlow)">
+          <animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+        </circle>
+        <text x="254" y="358" fill="#9BF0FF">REMOTE-FIRST</text>
+
+        <rect x="388" y="340" width="272" height="28" rx="14" fill="#A78BFA" fill-opacity="0.10" stroke="#A78BFA" stroke-opacity="0.42"/>
+        <circle cx="404" cy="354" r="3.6" fill="#C9B6FF" filter="url(#ftGlow)">
+          <animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+        </circle>
+        <text x="418" y="358" fill="#D3C6FF">FAST, PROFESSIONAL REPLIES</text>
+      </g>
+
+      <rect x="674" y="340" width="11" height="28" rx="2.5" fill="#5FEFFF" filter="url(#ftGlow)">
+        <animate attributeName="opacity" values="1;1;0;0" dur="1.15s" repeatCount="indefinite"/>
+      </rect>
+
+      <!-- corner bracket -->
+      <path d="M 954 368 L 954 380 A 6 6 0 0 1 948 386 L 936 386" fill="none" stroke="#A78BFA" stroke-opacity="0.45" stroke-width="1.6" stroke-linecap="round"/>
+
+      <rect x="-300" y="164" width="260" height="236" fill="url(#ftSweep)">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="1560 0" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <rect x="32.6" y="164.6" width="934.8" height="234.8" rx="18" fill="none" stroke="url(#ftRim)" stroke-width="1.2" filter="url(#ftHalo)"/>
+
+    <text x="500" y="428" text-anchor="middle" font-family="'Cascadia Code','Consolas',Menlo,monospace" font-size="10.5" letter-spacing="2.5" fill="#3E5074">THANKS FOR SCROLLING  ·  STAR A REPO IF IT HELPED</text>
+
+    <rect x="0.5" y="0.5" width="999" height="443" rx="20" fill="none" stroke="#1B2740"/>
+  </g>
+</svg>
